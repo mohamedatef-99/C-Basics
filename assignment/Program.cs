@@ -56,7 +56,27 @@
             #endregion
 
 
-            
+            #region Object
+            //object o01;
+            //// declare for reference from object
+
+            //o01 = new object();
+            //o01 = 1;
+            //o01 = "Hello";
+            //o01 = 1.2;
+            //o01 = new Point();
+
+            //Console.WriteLine(o01);
+
+            //Console.WriteLine(o01.GetHashCode());
+
+            //Point P01 = new Point();
+
+            //P01.ToString();
+            //P01.GetHashCode();
+            //P01.GetType();
+            //P01.Equals(P01); 
+            #endregion
 
 
         }
