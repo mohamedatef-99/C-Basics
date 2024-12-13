@@ -78,7 +78,22 @@
             //P01.Equals(P01); 
             #endregion
 
+            #region Implicit and Explicit Casting
+            //// Casting : Converting one type to another type
+            //// 1. Implicit Casting
+            //int x = 10;
+            //double y = x; // Implicit Casting
 
+
+            //// 2. Explicit Casting
+
+            //double z = 10.5;
+            //int a = (int)z; // Explicit Casting
+
+
+            //long l = 1111111111111111111;
+            //int i = (int)l; 
+            #endregion
         }
     }
 }
