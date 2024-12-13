@@ -94,6 +94,28 @@
             //long l = 1111111111111111111;
             //int i = (int)l; 
             #endregion
+
+
+            #region Parse,Covert and TryParse
+            // Parse : Function
+
+            //Console.WriteLine("Enter your age: ");
+            //int age = int.Parse(Console.ReadLine());
+            //Console.WriteLine(age);
+
+            // Covert : Class
+            //Console.WriteLine("Enter your age: ");
+            //int age = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine(age);
+
+
+            // TryParse : Function
+            //Console.WriteLine("Enter your age: ");
+            //int age;
+            //bool Flag = int.TryParse(Console.ReadLine(), out age);
+            //Console.WriteLine(age);
+            //Console.WriteLine(Flag); 
+            #endregion
         }
     }
 }
