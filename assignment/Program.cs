@@ -116,6 +116,15 @@
             //Console.WriteLine(age);
             //Console.WriteLine(Flag); 
             #endregion
+
+            #region Fraction and Discard
+            //int x = 10;
+            //double y = 10.5;
+            //float z = 10.5f;
+            //decimal a = 10.5m;
+
+            //long l = 1_111_111_111_111_111_111; discard 
+            #endregion
         }
     }
 }
